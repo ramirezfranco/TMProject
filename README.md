@@ -1,7 +1,7 @@
 # Text Mining in Public Policy - Final Project
 ## Jorge Quintero & Jesús Ramirez
 
-[Slides are here] (https://docs.google.com/presentation/d/1w-MK5P4YqIqCebr4cmX_qGkueTwD1-5gl5mLH0jSFAI/edit?usp=sharing)
+[Slides are here](https://docs.google.com/presentation/d/1w-MK5P4YqIqCebr4cmX_qGkueTwD1-5gl5mLH0jSFAI/edit?usp=sharing)
 
 File `PCA.ipynb` has the PCA, LDA, LDiA analyses of the three candidades corpora.
 
