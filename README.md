@@ -3,6 +3,15 @@
 
 [Slides are here](https://docs.google.com/presentation/d/1w-MK5P4YqIqCebr4cmX_qGkueTwD1-5gl5mLH0jSFAI/edit?usp=sharing)
 
-File `PCA.ipynb` has the PCA, LDA, LDiA analyses of the three candidades corpora.
+### Main files are: 
 
-File `Meade.ipynb` downloads and pre-processes speech data. Eliminates stopwords, some meade-specific meaningless words, lower cases it, etc. Produces a `.csv` file to be used by PCA. File `util.py` is a utility file used by `Meade.ipynb`.
+* File `PCA.ipynb` has the PCA, LDA, LDiA analyses of the three candidades corpora.
+* File `amlo_over_time.ipynb` uses LDiA over time...
+
+### Files that download speeches:
+
+* `Meade.ipynb`, `amlo_texts.ipynb` and `Anaya_texts.ipynb` download and pre-process speech data. Eliminates stopwords, some meade-specific meaningless words, lower cases it, etc. Produces a `.csv` file to be used by PCA. File `util.py` is a utility file used by `Meade.ipynb`.
+
+### Data files:
+
+* Downloaded data is stored into individual `.csv` files. `svd.csv` is used in `amlo_over_time.ipynb`.
