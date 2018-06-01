@@ -6,7 +6,9 @@
 ### Main files are: 
 
 * File `PCA.ipynb` has the PCA, LDA, LDiA analyses of the three candidades corpora.
-* File `amlo_over_time.ipynb` uses LDiA over time...
+* File `amlo_over_time.ipynb` Analysis of speech of Lopez 2012 - 2018
+* File `Similarity_across_candidates.ipynb` Compute similarite metrics and creates plots
+* File `Terms.ipynb` Extract the most common terms (words) of the topics.
 
 ### Files that download speeches:
 
@@ -14,4 +16,4 @@
 
 ### Data files:
 
-* Downloaded data is stored into individual `.csv` files. `svd.csv` is used in `amlo_over_time.ipynb`.
+* Downloaded data is stored into individual `.csv` files. `svd.csv` is used in `amlo_over_time.ipynb`
